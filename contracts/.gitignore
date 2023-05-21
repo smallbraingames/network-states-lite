@@ -1,0 +1,13 @@
+out/
+cache/
+node_modules/
+bindings/
+artifacts/
+abi/
+broadcast/
+.env
+
+
+deploys/**/*.json
+!deploys/**/latest.json
+!out/Config.sol/Config.json

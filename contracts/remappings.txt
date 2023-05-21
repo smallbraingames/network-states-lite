@@ -1,0 +1,8 @@
+ds-test/=./node_modules/ds-test/src/
+forge-std/=./node_modules/forge-std/src/
+@latticexyz/=./node_modules/@latticexyz/
+abdk-libraries-solidity=./node_modules/abdk-libraries-solidity
+codegen/=./src/codegen
+libraries/=./src/libraries
+systems/=./src/systems
+common/=./src/common

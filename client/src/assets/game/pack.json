@@ -1,0 +1,26 @@
+{
+  "MAIN": {
+    "files": [
+      {
+        "type": "image",
+        "key": "tilemap",
+        "url": "src/assets/game/tilemap/tilemap.png"
+      },
+      {
+        "type": "image",
+        "key": "selection",
+        "url": "src/assets/game/overlays/select.png"
+      },
+      {
+        "type": "image",
+        "key": "next",
+        "url": "src/assets/game/overlays/next.png"
+      },
+      {
+        "type": "image",
+        "key": "arrow",
+        "url": "src/assets/game/overlays/arrow.png"
+      }
+    ]
+  }
+}
